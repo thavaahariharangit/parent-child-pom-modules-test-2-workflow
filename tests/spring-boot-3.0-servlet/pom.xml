@@ -13,7 +13,7 @@
 	<description>Apigee Spring Boot Starter Tests for Spring Boot 3.0 (Servlet web applications)</description>
 
 	<properties>
-		<spring-boot.version>3.0.13</spring-boot.version>
+		<spring-boot.version>3.4.4</spring-boot.version>
 	</properties>
 
 	<dependencyManagement>

@@ -27,7 +27,7 @@
 	</pluginRepositories>
 
 	<properties>
-		<spring-boot.version>3.5.0-M2</spring-boot.version>
+		<spring-boot.version>3.4.4</spring-boot.version>
 	</properties>
 
 	<dependencyManagement>
